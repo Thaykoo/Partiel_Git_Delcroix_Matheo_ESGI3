@@ -10,3 +10,4 @@ Ce projet est un mini-script de surveillance système développé dans le cadre 
 
 - **Affichage de l'utilisation CPU** : Affiche le pourcentage d'utilisation du processeur
 - **Affichage de l'utilisation RAM** : Affiche la mémoire utilisée et totale
+- **Affichage de l'espace disque** : Affiche l'espace disque utilisé et disponible
