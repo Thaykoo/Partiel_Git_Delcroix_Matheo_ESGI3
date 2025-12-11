@@ -8,4 +8,4 @@ Ce projet est un mini-script de surveillance système développé dans le cadre 
 
 ## Fonctionnalités
 
-En cours de développement...
+- **Affichage de l'utilisation CPU** : Affiche le pourcentage d'utilisation du processeur
